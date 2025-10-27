@@ -2,7 +2,7 @@
 ```diff
 # 2024
 + KGU Computer Engineering
-+ KGU K.knock 15th  
++ KGU K.knock 15th
 + 2024 KCTF 2nd
 # 2025
 + 2025 K.knock Mentor

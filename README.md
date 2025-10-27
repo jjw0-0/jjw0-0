@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/docker-2496ED?logoColor=FFFFFF&logo=Docker">
   <img src="https://img.shields.io/badge/nginx-009639?logoColor=FFFFFF&logo=NGINX">
   <br>
-  <img src="https://img.shields.io/badge/claude-D97757?logoColor=FFFFFF&logo=Anthropic">
+  <img src="https://img.shields.io/badge/claude-D97757?logoColor=FFFFFF&logo=Claude">
   <img src="https://img.shields.io/badge/gemini-8E75B2?logoColor=FFFFFF&logo=GoogleGemini">
   <img src="https://img.shields.io/badge/notebooklm-000000?logoColor=FFFFFF&logo=Google">
 </p>

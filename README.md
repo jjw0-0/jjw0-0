@@ -11,44 +11,44 @@
 ### I can use these..
 
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3776AB?logoColor=FFFFFF&logo=Python">
-  <img src="https://img.shields.io/badge/flask-3BABC3?logoColor=FFFFFF&logo=Flask">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?logoColor=FFFFFF&logo=JavaScript">
-  <img src="https://img.shields.io/badge/node.js-5FA04E?logoColor=FFFFFF&logo=Node.js">
-  <img src="https://img.shields.io/badge/express-000000?logoColor=FFFFFF&logo=Express">
+  <img src="https://img.shields.io/badge/Python-3776AB?logoColor=FFFFFF&logo=Python">
+  <img src="https://img.shields.io/badge/Flask-3BABC3?logoColor=FFFFFF&logo=Flask">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logoColor=FFFFFF&logo=JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?logoColor=FFFFFF&logo=Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?logoColor=FFFFFF&logo=Express">
   <br>
-  <img src="https://img.shields.io/badge/mysql-4479A1?logoColor=FFFFFF&logo=MySQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logoColor=FFFFFF&logo=MySQL">
   <br>
-  <img src="https://img.shields.io/badge/git-F05032?logoColor=FFFFFF&logo=Git">
-  <img src="https://img.shields.io/badge/github-181717?logoColor=FFFFFF&logo=GitHub">
+  <img src="https://img.shields.io/badge/Git-F05032?logoColor=FFFFFF&logo=Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?logoColor=FFFFFF&logo=GitHub">
   <br>
-  <img src="https://img.shields.io/badge/docker-2496ED?logoColor=FFFFFF&logo=Docker">
-  <img src="https://img.shields.io/badge/nginx-009639?logoColor=FFFFFF&logo=NGINX">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logoColor=FFFFFF&logo=Docker">
+  <img src="https://img.shields.io/badge/Nginx-009639?logoColor=FFFFFF&logo=NGINX">
   <br>
-  <img src="https://img.shields.io/badge/claude-D97757?logoColor=FFFFFF&logo=Claude">
-  <img src="https://img.shields.io/badge/gemini-8E75B2?logoColor=FFFFFF&logo=GoogleGemini">
-  <img src="https://img.shields.io/badge/notebooklm-000000?logoColor=FFFFFF&logo=Google">
+  <img src="https://img.shields.io/badge/Claude-D97757?logoColor=FFFFFF&logo=Claude">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?logoColor=FFFFFF&logo=GoogleGemini">
+  <img src="https://img.shields.io/badge/NotebookLM-000000?logoColor=FFFFFF&logo=Google">
 </p>
 
 ### I'm practicing these..
 
 <p align="left">
-  <img src="https://img.shields.io/badge/typescript-3178C6?logoColor=FFFFFF&logo=TypeScript">
-  <img src="https://img.shields.io/badge/react-61DAFB?logoColor=FFFFFF&logo=React">
-  <img src="https://img.shields.io/badge/next.js-000000?logoColor=FFFFFF&logo=Next.js">
-  <img src="https://img.shields.io/badge/postgresql-4169E1?logoColor=FFFFFF&logo=PostgreSQL">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logoColor=FFFFFF&logo=TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?logoColor=FFFFFF&logo=React">
+  <img src="https://img.shields.io/badge/Next.js-000000?logoColor=FFFFFF&logo=Next.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logoColor=FFFFFF&logo=PostgreSQL">
   <br>
-  <img src="https://img.shields.io/badge/tailwind css-06B6D4?logoColor=FFFFFF&logo=TailwindCSS">
-  <img src="https://img.shields.io/badge/figma-F24E1E?logoColor=FFFFFF&logo=Figma">
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logoColor=FFFFFF&logo=TailwindCSS">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logoColor=FFFFFF&logo=Figma">
 </p>
 
 ### I'm interested in iOS development..
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ios-000000?logoColor=FFFFFF&logo=iOS">
-  <img src="https://img.shields.io/badge/swift-F05138?logoColor=FFFFFF&logo=Swift">
-  <img src="https://img.shields.io/badge/react native-61DAFB?logoColor=FFFFFF&logo=React">
-  <img src="https://img.shields.io/badge/expo-1C2024?logoColor=FFFFFF&logo=Expo">
+  <img src="https://img.shields.io/badge/IOS-000000?logoColor=FFFFFF&logo=iOS">
+  <img src="https://img.shields.io/badge/Swift-F05138?logoColor=FFFFFF&logo=Swift">
+  <img src="https://img.shields.io/badge/React Native-61DAFB?logoColor=FFFFFF&logo=React">
+  <img src="https://img.shields.io/badge/Expo-1C2024?logoColor=FFFFFF&logo=Expo">
 </p>
 
 ### 🔥🔥

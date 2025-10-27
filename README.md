@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 KGU K.knock 15th
+2024 KCTF 2nd
+
+2025 K.knock mentor
 <!--
 **jjw0-0/jjw0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

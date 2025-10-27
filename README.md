@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/next.js-000000?logoColor=FFFFFF&logo=Next.js">
   <img src="https://img.shields.io/badge/postgresql-4169E1?logoColor=FFFFFF&logo=PostgreSQL">
   <br>
-  <img src="https://img.shields.io/badge/tailwind css-06B6D4?logoColor=FFFFFF&logo=Tailwind CSS">
+  <img src="https://img.shields.io/badge/tailwind css-06B6D4?logoColor=FFFFFF&logo=TailwindCSS">
   <img src="https://img.shields.io/badge/figma-F24E1E?logoColor=FFFFFF&logo=Figma">
 </p>
 
@@ -41,14 +41,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ios-000000?logoColor=FFFFFF&logo=iOS">
   <img src="https://img.shields.io/badge/swift-F05138?logoColor=FFFFFF&logo=Swift">
-  <img src="https://img.shields.io/badge/react native-61DAFB?logoColor=FFFFFF&logo=React Native">
+  <img src="https://img.shields.io/badge/react native-61DAFB?logoColor=FFFFFF&logo=ReactNative">
   <img src="https://img.shields.io/badge/expo-1C2024?logoColor=FFFFFF&logo=Expo">
 </p>
 
 ### I'm use..
 <p align="center">
   <img src="https://img.shields.io/badge/claude-D97757?logoColor=FFFFFF&logo=Claude">
-  <img src="https://img.shields.io/badge/gemini-8E75B2?logoColor=FFFFFF&logo=Google Gemini">
+  <img src="https://img.shields.io/badge/gemini-8E75B2?logoColor=FFFFFF&logo=GoogleGemini">
   <img src="https://img.shields.io/badge/notebooklm-000000?logoColor=FFFFFF&logo=NotebookLM">
 </p>
 

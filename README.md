@@ -1,9 +1,13 @@
 ## Hi there 👋
 
-> KGU K.knock 15th  
-> 2024 KCTF 2nd
+```diff
+# 2024
++ KGU K.knock 15th  
++ 2024 KCTF 2nd
 
-> 2025 K.knock mentor
+# 2025
++ 2025 K.knock mentor
+```
 
 ### I can..
 <p align="center">
@@ -49,4 +53,4 @@
 </p>
 
 ### 🔥🔥
-[![jjw's github activity graph](https://activity-graph.herokuapp.com/graph?username=jjw0-0&theme=monokai)](https://github.com/jjw0-0/github-readme-activity-graph)
+[![jjw's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jjw0-0&theme=high-contrast)](https://github.com/jjw0-0/github-readme-activity-graph)

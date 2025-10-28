@@ -1,11 +1,11 @@
 ## Hi there 👋
 ```diff
 # 2024
-+ KGU Computer Engineering
-+ KGU K.knock 15th
-+ 2024 KCTF 2nd
++ Kyonggi University Computer Engineering 24th
++ KGU Security Club - K.knock 15th
++ 2024 Kyonggi University CTF (KCTF) 2nd
 # 2025
-+ 2025 K.knock Mentor
++ 2025 Security Club - K.knock Mentor
 ```
 
 ### I can use these..

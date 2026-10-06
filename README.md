@@ -6,6 +6,9 @@
 + 2024 Kyonggi University CTF (KCTF) 2nd
 # 2025
 + 2025 Security Club - K.knock Mentor
+# 2026
+- ROKAR 🪖
+- 2026.06.22. ~ 2028.03.21.
 ```
 
 ### I can use these..

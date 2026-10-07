@@ -7,6 +7,7 @@
 # 2025
 + 2025 Security Club - K.knock Mentor
 # 2026
++ 2026 Hack Theon Sejong Finalist
 - ROKAR 🪖
 - 2026.06.22. ~ 2028.03.21.
 ```
